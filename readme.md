@@ -11,6 +11,6 @@
 -переходим в папку проекта
 -composer self-update
 -composer install
-- создать свой файл .env на основе файла .envexample
+- создать свой файл .env на основе файла .env.example
 -
 -
